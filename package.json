@@ -1,0 +1,17 @@
+{
+  "name": "ayu-mirage-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Imported tmTheme for Ayu-Mirage on Atom",
+  "keywords": [
+    "syntax",
+    "theme",
+    "ayu",
+    "mirage"
+  ],
+  "repository": "https://github.com/atom/ayu-mirage-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
