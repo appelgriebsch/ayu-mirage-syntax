@@ -9,7 +9,7 @@
     "ayu",
     "mirage"
   ],
-  "repository": "https://github.com/atom/ayu-mirage-syntax",
+  "repository": "https://github.com/appelgriebsch/ayu-mirage-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
